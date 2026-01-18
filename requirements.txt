@@ -1,0 +1,15 @@
+numpy
+scipy
+matplotlib 
+scikit-learn
+torch
+torchvision
+wandb
+torchsummary
+seaborn
+
+jupyter
+ipykernel
+papermill
+nbformat
+nbconvert
